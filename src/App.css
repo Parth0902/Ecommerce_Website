@@ -1,0 +1,10 @@
+.col{
+    flex:1
+}
+.col-l{
+    flex:2;
+}
+
+.card{
+  width: 220px;
+}
